@@ -38,6 +38,5 @@ public class MainActivity extends AppCompatActivity {
                     "Welcome " + inputName + " to our App",
                     Toast.LENGTH_LONG).show();
         });
-
     }
 }
